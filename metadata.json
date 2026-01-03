@@ -1,0 +1,8 @@
+{
+  "name": "AuraLink: Inclusive AI Communication",
+  "description": "A next-generation communication platform designed for deaf and mute users, featuring real-time sign language recognition, live multilingual subtitles, and a 3D-inspired glassmorphism UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
